@@ -33,7 +33,7 @@ const Donation = () => {
             </div>
             <div className={dataLength === donar.length && 'hidden'}>
                 <button onClick={() => setDatalength(donar.length)}
-                 className="btn btn-primary">Show all</button>
+                 className="btn btn-primary mt-5">Show all</button>
             </div>
 
            </div> 

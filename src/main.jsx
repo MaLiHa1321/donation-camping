@@ -12,6 +12,7 @@ import Donation from './components/Donation/Donation.jsx';
 import Statistics from './components/Statistics/Statistics.jsx';
 import Categorie from './components/Categorie/Categorie.jsx';
 import ErrorPage from './components/error/ErrorPage.jsx';
+import Showsearch from './components/ShowSearch/Showsearch.jsx';
 
 const router = createBrowserRouter([
   {
@@ -37,6 +38,10 @@ const router = createBrowserRouter([
         path: "/cate/:id",
         element: <Categorie></Categorie>,
         loader:() => fetch('data.json')
+      },
+      {
+        path: "/sarch",
+        element: <Showsearch></Showsearch>
       }
     ]
   },

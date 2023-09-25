@@ -17,7 +17,7 @@
       "category": "Education",
       "price": 300,
       "category_bg": "#e74c3c",
-      "card_bg": "#f5b041",
+      "card_bg": "#f8b9b9",
       "text_button_bg": "#9b59b6",
       "description": "Education is the cornerstone of progress and a fundamental right that every child should enjoy. However, the reality is that millions of children around the world still face obstacles in accessing quality education. Our Education for All campaign is dedicated to breaking down these barriers and ensuring that every child, regardless of their circumstances, has the opportunity to learn, grow, and thrive.\n\nYour contribution to Education for All will support a wide range of initiatives. We provide scholarships to underprivileged students, ensuring that the financial burden of education does not hinder their dreams. We equip schools with essential supplies and resources, guaranteeing that classrooms are conducive to learning.\n\nMoreover, we invest in teacher training programs to enhance the quality of education. We believe that a well-trained teacher can ignite a lifelong passion for learning in their students. By promoting education, we're not just changing individual lives; we're shaping the future of entire communities and nations.\n\nJoin us in this noble cause and help us create a world where education truly knows no boundaries. Your donation to Education for All is an investment in a brighter, more equitable future for all."
     },
@@ -50,8 +50,8 @@
       "category": "Environment",
       "price": 600,
       "category_bg": "#1abc9c",
-      "card_bg": "#3498db",
-      "text_button_bg": "#f1c40f",
+      "card_bg": "#ead1dc",
+      "text_button_bg": "#ed438e",
       "description": "The planet Earth, our home, is facing unprecedented environmental challenges. Deforestation, pollution, habitat loss, and climate change threaten the delicate balance of our ecosystems. Our Environmental Conservation campaign is dedicated to preserving the beauty and diversity of our planet for current and future generations.\n\nWhen you support Environmental Conservation, your donation goes toward funding vital initiatives. We engage in reforestation efforts to combat deforestation and protect crucial habitats for wildlife. We invest in sustainable energy projects to reduce carbon emissions and mitigate climate change.\n\nAdditionally, we work on initiatives to combat pollution and promote responsible consumption. We believe that by taking action now, we can create a sustainable and thriving planet where humans and nature coexist harmoniously.\n\nJoin us in this critical mission. Your contribution to Environmental Conservation is not just a donation; it's a statement of your commitment to safeguarding the natural world. Together, we can ensure that the Earth remains a place of wonder, beauty, and abundance for generations to come."
     },
     {
@@ -61,7 +61,7 @@
       "category": "Empowerment",
       "price": 700,
       "category_bg": "#d35400",
-      "card_bg": "#9b59b6",
+      "card_bg": "#d9d2e9",
       "text_button_bg": "#f39c12",
       "description": "Empowering women is a catalyst for positive change, not only in the lives of women themselves but also in the communities and societies they are a part of. Our Empower Women campaign is dedicated to providing women with the tools, resources, and opportunities they need to break free from barriers and reach their full potential.\n\nYour donation to Empower Women supports a range of initiatives, including skills training programs that equip women with valuable job skills and entrepreneurship opportunities. We also focus on providing access to quality education, which is a fundamental right for all. Additionally, we promote initiatives that advocate for gender equality and women's rights.\n\nWe firmly believe that when women succeed, communities thrive. By empowering women economically and socially, we are creating a more equitable and prosperous world for everyone.\n\nJoin us in breaking down barriers and opening doors for women to lead better lives. Your contribution to Empower Women is an investment in a brighter future where gender equality is a reality."
     },
@@ -72,7 +72,7 @@
       "category": "Animals",
       "price": 800,
       "category_bg": "#c0392b",
-      "card_bg": "#e67e22",
+      "card_bg": "#b6d7a8",
       "text_button_bg": "#e74c3c",
       "description": "Animals share our planet, and their welfare is a responsibility we all bear. Our Animal Welfare campaign is dedicated to protecting and caring for animals in need, whether they are domesticated pets or wildlife in their natural habitats.\n\nYour donation to Animal Welfare supports a wide range of initiatives. We operate and fund animal shelters, providing a safe haven for abandoned and abused animals. We engage in rescue operations, saving animals from dangerous situations and ensuring their well-being.\n\nAdditionally, we support wildlife conservation efforts aimed at preserving endangered species and their habitats. We advocate for policies that protect animals and their rights, promoting a compassionate and ethical approach to our relationship with the animal kingdom.\n\nBy supporting Animal Welfare, you're making a tangible difference in the lives of animals. Your donation is a testament to your commitment to creating a world where animals are treated with kindness and respect. Join us in our mission to ensure that animals live free from harm and suffering."
     },
@@ -104,9 +104,9 @@
       "title": "Art and Culture",
       "category": "Culture",
       "price": 500,
-      "category_bg": "#9b59b6",
-      "card_bg": "#f7dc6f",
-      "text_button_bg": "#e67e22",
+      "category_bg": "#2776bc",
+      "card_bg": "#93CCEA",
+      "text_button_bg": "#0052FF",
       "description": "Art and culture are the soul of society, reflecting our shared humanity and the diversity of human expression. Our Art and Culture campaign is dedicated to preserving, promoting, and celebrating these invaluable aspects of our world.\n\nWhen you contribute to Art and Culture, your donation supports a wide range of initiatives. We fund museums to ensure that cultural heritage is preserved for future generations. We support art education programs, offering individuals the opportunity to engage with and create art.\n\nCultural events and festivals help bridge divides and bring communities together. We promote and organize events that celebrate the rich tapestry of human culture, fostering understanding and appreciation.\n\nJoin us in preserving the beauty of human expression. Your donation to Art and Culture is a testament to your commitment to enriching our shared human experience through the arts. Together, we can ensure that art and culture continue to flourish and inspire generations to come."
     },
     {
@@ -116,8 +116,8 @@
       "category": "Community",
       "price": 400,
       "category_bg": "#27ae60",
-      "card_bg": "#1abc9c",
-      "text_button_bg": "#f1c40f",
+      "card_bg": "#FF444A26",
+      "text_button_bg": "#FF444A",
       "description": "Strong, vibrant communities are the backbone of society. Our Community Development campaign is dedicated to building and empowering communities through essential infrastructure, vocational training, and social programs.\n\nWhen you donate to Community Development, your contribution supports a range of initiatives. We invest in the construction of vital infrastructure, such as roads, schools, and healthcare facilities, that lay the foundation for thriving neighborhoods.\n\nVocational training programs provide individuals with valuable skills, opening doors to employment and economic independence. We believe that by equipping individuals with the tools they need to succeed, we're creating a brighter future for entire communities.\n\nSocial programs promote inclusivity, engagement, and empowerment. We work to create spaces where individuals can come together, share resources, and collaborate on projects that benefit everyone.\n\nJoin us in strengthening communities and creating a better world for all. Your donation to Community Development is a commitment to building a society where everyone has the opportunity to prosper and contribute to the common good."
     },
     {
@@ -127,7 +127,7 @@
       "category": "Health",
       "price": 700,
       "category_bg": "#16a085",
-      "card_bg": "#3498db",
+      "card_bg": "#ffd966",
       "text_button_bg": "#e74c3c",
       "description": "Mental health is a critical aspect of overall well-being, yet stigma and limited resources often prevent individuals from getting the support they need. Our Mental Health Support campaign is dedicated to promoting mental well-being and providing accessible mental health services to those in need.\n\nWhen you support Mental Health Support, your donation goes toward a variety of initiatives. We provide counseling services that offer individuals a safe and supportive space to address their mental health challenges. We engage in awareness campaigns to destigmatize mental health issues and encourage open dialogue.\n\nMoreover, we offer resources and support for individuals and families facing mental health challenges. We believe that everyone deserves to live a mentally healthy life, free from judgment and barriers.\n\nJoin us in supporting mental health and helping those in need. Your contribution to Mental Health Support is a beacon of hope for individuals struggling with mental health issues, offering them the support and care they deserve."
     }

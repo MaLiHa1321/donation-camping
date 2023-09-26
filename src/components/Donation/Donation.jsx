@@ -23,18 +23,22 @@ const Donation = () => {
     console.log(donar)
   
     return (
-       <div>
+       <div className="w-11/12 mx-auto">
         {
            noFound? <p>{noFound}</p>: <div>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-12">
                 {
-                    donar.slice(0,dataLength).map(doner => <DonerDetails doner={doner}></DonerDetails>)
+                    donar.slice(0,dataLength).map(doner => <DonerDetails key={donar.id} doner={doner}></DonerDetails>)
                 }
             </div>
-            <div className={dataLength === donar.length && 'hidden'}>
+
+              {donar.length >= 5 && dataLength < donar.length && (
+                <div>
                 <button onClick={() => setDatalength(donar.length)}
                  className="btn btn-primary mt-5">Show all</button>
             </div>
+              )}         
+          
 
            </div> 
         }

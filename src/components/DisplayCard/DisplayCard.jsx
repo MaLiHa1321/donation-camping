@@ -1,4 +1,4 @@
-
+import toast, { Toaster } from 'react-hot-toast';
 
 const DisplayCard = ({doner}) => {
    
@@ -12,7 +12,7 @@ const DisplayCard = ({doner}) => {
         if(!donateItem){
           addedDonate.push(doner)
           localStorage.setItem('donate', JSON.stringify(addedDonate))
-          alert("sucessfully add")
+          toast.success('Successfully added!')
           
         }
         else{
@@ -20,11 +20,11 @@ const DisplayCard = ({doner}) => {
             if(!exits){
                 addedDonate.push(...donateItem,doner)
                 localStorage.setItem('donate', JSON.stringify(addedDonate))
-                alert("sucessfully add")
+                toast.success('Successfully added!')
 
             }
             else{
-                alert("already added")
+                toast.error("Already added.")
                 return;
             }
           
@@ -35,8 +35,12 @@ const DisplayCard = ({doner}) => {
 
     return (
         <div>
+            <Toaster
+  position="top-right"
+  reverseOrder={false}
+/>
             <div className="relative">
-            <img src={picture} alt="" className="w-full h-[50%]" />
+            <img src={picture} alt="" className="w-full h-[450px]"/>
             <div className="absolute bottom-0 left-0 right-0 bg-black bg-opacity-50 p-4">
             <button onClick={handleDonate} className="btn flex justify-start text-white" style={{ backgroundColor: text_button_bg }}>
       Donate {price}Tk

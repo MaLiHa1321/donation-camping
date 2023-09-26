@@ -12,6 +12,6 @@ The project focuses on a platform for donation campaigns.
 
 - A PieChart allows users to see their donation contributions.
 
-- Users can quickly identify certain donation categories using a search option.
+
 
 
